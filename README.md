@@ -11,9 +11,11 @@ Three years ago, I embarked on my coding journey driven by a simple curiosity: h
 
 On a mission to solve problems through code, I continually refine my skills to stay ahead of tech curves. I believe in collaborative growth, sharing knowledge and insights with my peers through coding workshops and tech meetups.
 
-Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!</p>
+Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!
 
+✉️ Email: atikul.official2020@gmail.com </p>
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
