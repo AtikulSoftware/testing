@@ -1,6 +1,19 @@
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AtikulSoftware.AtikulSoftware&left_color=tomato&right_color=yellow&left_text=Profile%20Visitors"  />
+<a align="center" href="https://www.linkedin.com/in/atikulislambd/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Atikul+Islam" alt="Atikul Islam" /></a>
+<p> Expert in JS, JAVA, Dart, Flutter, PHP, LARAVEL || Android, iOS And Web Application Developer </p>
+<p> Rajshahi, Bangladesh </p>
+
+<h3 align="left">About me: </h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p>Ever wonder what magic happens when tech meets creativity? Dive in to see how I blend art and code to craft bespoke digital experiences. As a seasoned developer, I've journeyed through the realms of JS, JAVA, Dart, Flutter, PHP & LARAVEL, focusing on Android, iOS, and web applications that resonate and engage.
+
+Three years ago, I embarked on my coding journey driven by a simple curiosity: how do digital platforms that shape our daily lives come into existence? Since then, my curiosity has evolved into a passion, compelling me to master various technologies
+
+On a mission to solve problems through code, I continually refine my skills to stay ahead of tech curves. I believe in collaborative growth, sharing knowledge and insights with my peers through coding workshops and tech meetups.
+
+Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikulsoftware&label=Profile%20views&color=0e75b6&style=flat" alt="atikulsoftware" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +41,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikulsoftware" alt="atikulsoftware" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikulsoftware&show_icons=true&locale=en&layout=compact" alt="atikulsoftware" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtikulSoftware&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtikulSoftware&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-
+###
